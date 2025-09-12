@@ -1,6 +1,6 @@
 import random as rn
 
-#int(input())
+# int(input())
 dice_count = 2
 dice_return = 0
 
@@ -11,3 +11,4 @@ for i in range(0, dice_count):
 
 
 print(f"Total: {dice_return}")
+
